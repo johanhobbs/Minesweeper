@@ -67,7 +67,7 @@ function guessNumber() {
       guessNumber();
     } else {
       console.log("Please enter a valid number.");
-      guessNumber;
+      guessNumber();
     }
   });
 }
